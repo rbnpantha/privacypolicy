@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
-  "homepage": "http://rabinpantha.com.np/privacypolicy",
+  "homepage": "http://rabinpantha.com.np/privacyPolicyMain",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.4",

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/privacypolicy/static/css/main.fc366080.chunk.css",
-    "main.js": "/privacypolicy/static/js/main.0d666b50.chunk.js",
-    "main.js.map": "/privacypolicy/static/js/main.0d666b50.chunk.js.map",
-    "runtime-main.js": "/privacypolicy/static/js/runtime-main.e73f0e0a.js",
-    "runtime-main.js.map": "/privacypolicy/static/js/runtime-main.e73f0e0a.js.map",
-    "static/js/2.96651efb.chunk.js": "/privacypolicy/static/js/2.96651efb.chunk.js",
-    "static/js/2.96651efb.chunk.js.map": "/privacypolicy/static/js/2.96651efb.chunk.js.map",
-    "index.html": "/privacypolicy/index.html",
-    "precache-manifest.4224463da4ff872227cab2d919c8cead.js": "/privacypolicy/precache-manifest.4224463da4ff872227cab2d919c8cead.js",
-    "service-worker.js": "/privacypolicy/service-worker.js",
-    "static/css/main.fc366080.chunk.css.map": "/privacypolicy/static/css/main.fc366080.chunk.css.map",
-    "static/js/2.96651efb.chunk.js.LICENSE.txt": "/privacypolicy/static/js/2.96651efb.chunk.js.LICENSE.txt",
-    "static/media/addressBook.jpg": "/privacypolicy/static/media/addressBook.f9d6fea5.jpg",
-    "static/media/interviewGuide.png": "/privacypolicy/static/media/interviewGuide.2bb3dec7.png",
-    "static/media/vocabularyApp.png": "/privacypolicy/static/media/vocabularyApp.cdb3045a.png"
+    "main.css": "/privacyPolicyMain/static/css/main.fc366080.chunk.css",
+    "main.js": "/privacyPolicyMain/static/js/main.b23056cf.chunk.js",
+    "main.js.map": "/privacyPolicyMain/static/js/main.b23056cf.chunk.js.map",
+    "runtime-main.js": "/privacyPolicyMain/static/js/runtime-main.a7067022.js",
+    "runtime-main.js.map": "/privacyPolicyMain/static/js/runtime-main.a7067022.js.map",
+    "static/js/2.96651efb.chunk.js": "/privacyPolicyMain/static/js/2.96651efb.chunk.js",
+    "static/js/2.96651efb.chunk.js.map": "/privacyPolicyMain/static/js/2.96651efb.chunk.js.map",
+    "index.html": "/privacyPolicyMain/index.html",
+    "precache-manifest.da2ffe355b11b932c4e09e5ffbebd91a.js": "/privacyPolicyMain/precache-manifest.da2ffe355b11b932c4e09e5ffbebd91a.js",
+    "service-worker.js": "/privacyPolicyMain/service-worker.js",
+    "static/css/main.fc366080.chunk.css.map": "/privacyPolicyMain/static/css/main.fc366080.chunk.css.map",
+    "static/js/2.96651efb.chunk.js.LICENSE.txt": "/privacyPolicyMain/static/js/2.96651efb.chunk.js.LICENSE.txt",
+    "static/media/addressBook.jpg": "/privacyPolicyMain/static/media/addressBook.f9d6fea5.jpg",
+    "static/media/interviewGuide.png": "/privacyPolicyMain/static/media/interviewGuide.2bb3dec7.png",
+    "static/media/vocabularyApp.png": "/privacyPolicyMain/static/media/vocabularyApp.cdb3045a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e73f0e0a.js",
+    "static/js/runtime-main.a7067022.js",
     "static/js/2.96651efb.chunk.js",
     "static/css/main.fc366080.chunk.css",
-    "static/js/main.0d666b50.chunk.js"
+    "static/js/main.b23056cf.chunk.js"
   ]
 }
