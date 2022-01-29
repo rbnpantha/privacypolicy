@@ -1,7 +1,7 @@
 {
-  "name": "todo-app",
+  "name": "priv-affi",
   "version": "0.1.0",
-  "homepage": "http://rabinpantha.com.np/privacyPolicyMain",
+  "homepage": "https://rbnpantha.github.io/privacypolicy/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.4",
@@ -32,8 +32,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  ]
 }
